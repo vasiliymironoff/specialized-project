@@ -1,0 +1,12 @@
+[submodule "specialized-project-report"]
+	path = specialized-project-report
+	url = https://github.com/vasiliymironoff/specialized-project-report
+[submodule "specialized-project-backend"]
+	path = specialized-project-backend
+	url = https://github.com/vasiliymironoff/specialized-project-backend
+[submodule "specialized-project-ml"]
+	path = specialized-project-ml
+	url = https://github.com/vasiliymironoff/specialized-project-ml
+[submodule "specialized-project-frontend"]
+	path = specialized-project-frontend
+	url = https://github.com/vasiliymironoff/specialized-project-frontend
